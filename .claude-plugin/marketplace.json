@@ -1,0 +1,5 @@
+{
+  "name": "image-view",
+  "owner": { "name": "sciencemj" },
+  "plugins": [{ "name": "image-view", "source": "./" }]
+}
